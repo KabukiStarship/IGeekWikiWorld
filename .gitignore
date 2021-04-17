@@ -16,6 +16,9 @@
 /.pnp
 .pnp.js
 
+# Windows files
+desktop.ini
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
